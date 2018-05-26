@@ -1,3 +1,4 @@
 remote_theme: swanson/lagom
 title: Machine Learning Workshop @sofatutor
 description: The base for all our different activities troughout the workshop.
+theme: jekyll-theme-minimal
