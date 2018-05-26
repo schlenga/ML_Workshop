@@ -3,7 +3,7 @@ Part 1: Playing around with the ideas
 
 Machine Learning is hidden from the user most of the time, even though it powers many modern applications.
 
-So, before we get our hands dirty, we look at some different instances of ML.
+So, before we get into the actual details, we look at some different implementations of ML.
 
 
 ## Your phone assistants (~20 minutes)
@@ -23,11 +23,11 @@ The basic flow of ML is as follows:
 0. Define the application, environment, kind of things that you want the machine to learn. Define what you want to achieve with the trained machine, in what environment, how often...
 1. From that, build the model (what kind of machine do you need?)
 2. Get data. A lot.
-3. Pre process the data so that your model can work with them
+3. Pre-process the data so that your model can work with them
 4. Let the model train on the data, all the time evaluating on a test sample of data
 5. When the model is good enough, test again on a fresh set of data
-6. maybe repeat 
-7. deploy
+6. Maybe repeat 
+7. Deploy
 
 ## Tensorflow.js (~60 minutes)
 
@@ -70,13 +70,13 @@ Test the machine!
 
 Group 2 looks at posenet. The machine is already trained to detect body parts. 
 
-Here are a couple of ideas what you can do with it
+Here are a couple of ideas what you can do with it:
 
-- Have a look at one or different people (setting single vs multipose)
+- Have a look at one or different people (there are the settings "single" vs "multipose")
 - What does the machine detect, what doesn't it detect?
 - How quick is it? 
 - Under what circumstances does the machine fail to detect poses? (Think lighting, angle, clothes, background etc)
-- What does the machine do when your not in the picture?
+- What does the machine do when you're not in the picture?
 
 
 ### Now play PACMAN with [PACCAM](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
@@ -85,6 +85,6 @@ Make pairs of one member of each group.
 
 Use what you learned about training a machine to train the controller of the Pacman example. Make sure it works well for both of you.
 
-Play! If you want, we can do a little tournament before the...
+Play! If you want, we can have a little tournament before the...
 
 ## BREAK! Let's have coffe and talk!
