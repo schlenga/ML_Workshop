@@ -22,3 +22,4 @@ The goal of this workshop is to get everyone fluent on the concepts and lingo of
 ## Structure
 
 - Part 1: [link](Pages/part1.md)
+- Part 2: [link](Pages/part2.md)
