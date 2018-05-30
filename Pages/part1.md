@@ -43,6 +43,7 @@ How well does the game work?
 If you know how to code, take a look at the "code" section.
 What do you notice about the music?
 
+
 ### Main parts
 
 Form two groups.
