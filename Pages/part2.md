@@ -9,7 +9,7 @@ Before we look at the model, we agree on some language.
 
 In ML, we train a _model_ using _training data_ and certain _algorithms_. If the data we provide are labelled and it tries to learn the correct labels, it is typically _supervised_ learning, if it tries to learn patterns from the data without prescribed labels, that would be _unsupervised_ learning.
 
-![Schema]("Schema.png")
+![Schema](Schema.png)
 
 *Examples*:
 
