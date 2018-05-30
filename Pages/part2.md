@@ -1,7 +1,7 @@
 Part 2: The Perceptron
 ==================
 
-The perceptron is the simplest instance of a neural network. In order to understand it, we need some very basic mathematical conceptst, which we'll just take for granted.
+The perceptron is the simplest instance of a neural network. In order to understand it, we need some very basic mathematical concepts, which we'll just take for granted.
 
 Before we look at the model, we agree on some language.
 
@@ -22,3 +22,10 @@ If you want the machine to give labels to its inputs, you build a _classifier_, 
 
 - deciding which letter was written as the input in character recognition is a classification problem
 - giving an estimate for sales projections from certain input parameters is a regression task
+
+## The Perceptron
+
+For the first step into ML, let's start with a very basic task to learn: the *OR*-gate.
+
+The outline of our machine is going to look like this: 
+![OR-NN](OR.png)
