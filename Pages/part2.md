@@ -44,4 +44,4 @@ $$y$$: output, can be $$0$$ or $$1$$.
 
 What we want to model is
 
-$$y = x_1 \wedge x_2$$, that is to say $$y=1$$ if $$x_1=1$$ or $$x_2=1$$, and $$y=0$$ if $$x_1=x_2=0$$.
+$$y = x_1 \lor x_2$$, that is to say $$y=1$$ if $$x_1=1$$ or $$x_2=1$$, and $$y=0$$ if $$x_1=x_2=0$$.
