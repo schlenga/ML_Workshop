@@ -34,7 +34,14 @@ The outline of our machine is going to look like this:
 
 An OR-gate is a very basic part of electronics. It has two inputs, and either can be on or off. The OR-gate itself then will be on if any (or either) of the inputs is on and will be off when both inputs are off.
 
-Instead of using "on" and "off", it's easier to work with numbers. We call then
+Instead of using "on" and "off", it's easier to work with numbers. We call then:
+
 $$x_1$$: input one, can be $$0$$ or $$1$$.
+
 $$x_2$$: input two, can be $$0$$ or $$1$$.
+
 $$y$$: output, can be $$0$$ or $$1$$.
+
+What we want to model is
+
+$$y = x_1 \or x_2$$, that is to say $$y=1$$ if $$x_1=1$$ or $$x_2=1$$, and $$y=0$$ if $$x_1=x_2=0$$.
