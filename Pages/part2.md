@@ -33,6 +33,6 @@ The outline of our machine is going to look like this:
 An OR-gate is a very basic part of electronics. It has two inputs, and either can be on or off. The OR-gate itself then will be on if any (or either) of the inputs is on and will be off when both inputs are off.
 
 Instead of using "on" and "off", it's easier to work with numbers. We call then
-$x_1$: input one, can be $0$ or $1$.
-$x_2$: input two, can be $0$ or $1$.
-$y$: output, can be $0$ or $1$.
+$$x_1$$: input one, can be $$0$$ or $$1$$.
+$$x_2$$: input two, can be $$0$$ or $$1$$.
+$$y$$: output, can be $$0$$ or $$1$$.
