@@ -88,3 +88,5 @@ Use what you learned about training a machine to train the controller of the Pac
 Play! If you want, we can have a little tournament before the...
 
 ## BREAK! Let's have coffee and a chat about your ideas what ML can do!
+
+After that: [Part 2!](Pages/part2.md)
