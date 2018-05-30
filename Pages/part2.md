@@ -11,7 +11,7 @@ In ML, we train a _model_ using _training data_ and certain _algorithms_. If the
 
 *Examples*:
 
-- learning images is typically supervised learning —- the images have to be pre-labelled ("this is a dog")
+- image recognition is typically supervised learning —- the images have to be pre-labelled ("this is a dog")
 - you have a collection of voice samples from different people (several each) and want to cluster the samples created by the same person. Since you don't have labels, this has to happen unsupervised
 
 If you want the machine to give labels to its inputs, you build a _classifier_, if you want to compute numerical values, this is a _regression_.
