@@ -6,7 +6,7 @@ Machine Learning is hidden from the user most of the time, even though it powers
 So, before we get into the actual details, we look at some different implementations of ML.
 
 
-## Your phone assistants (~20 minutes)
+## Your phone assistants
 
 If you have a modern Android or iPhone (and activated the assistant features), you have access to Siri or the Google Assistant.
 
@@ -29,7 +29,7 @@ The basic flow of ML is as follows:
 6. Maybe repeat 
 7. Deploy
 
-## Tensorflow.js (~60 minutes)
+## Tensorflow.js
 
 Visit [tensorflow.js](https://js.tensorflow.org/). We look at a couple of examples there.
 
@@ -87,4 +87,4 @@ Use what you learned about training a machine to train the controller of the Pac
 
 Play! If you want, we can have a little tournament before the...
 
-## BREAK! Let's have coffe and talk!
+## BREAK! Let's have coffee and a chat about your ideas what ML can do!
