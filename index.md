@@ -20,16 +20,28 @@ The goal of this workshop is to get everyone fluent on the concepts and lingo of
 
 ### Day 2:
 
+**Please all bring your item for the image recognition network!** If you already managed to get hold of a large enough number of images, bring those as well: Maybe on a usb drive or on Google Drive.
+
 - Fixing up questions from day 1
 - Implementing/understanding a simple Deep Convolutional NN for the [Iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 	- here's the [Jupyter NB](https://github.com/schlenga/ML_Workshop/blob/master/Code/Iris_Classification.ipynb)
 - Using that, implement CNNs:
 	- MNIST
 	- Sentiment Analysis
+- Data acquisition and preprocessing for images
+- Quick look into the history of image recognition
+- Google Inception
+- Transfer Learning
+- Build our little Image recognizer
+- Follow ups:
+	- We could put it on Android
+	- Could we run it against all the comments?
+	- Maybe revisit Churn prediction?
 	
 
 ## Important Links:
 
+- [All symbols in Tensorflow](https://www.tensorflow.org/api_docs/python/)
 - [Scipy Doc](https://docs.scipy.org/doc/)
 - [Numpy Reference](https://docs.scipy.org/doc/numpy/reference/)
 
