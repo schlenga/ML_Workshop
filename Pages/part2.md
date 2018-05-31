@@ -64,3 +64,7 @@ We're trying to minimize our loss function, so we want in each iteration change 
 
 In several dimensions, the derivative is called gradient, and it is a vector that points towards the steepest change in the function. If we compute the derivative of the loss with respect to all weights, wen can just compute the derivative at every step and change all weights in the direction the gradient tells us.
 ![Grad](grad.gif)
+
+## Quick Python Intro!
+
+## Our First neural net!
