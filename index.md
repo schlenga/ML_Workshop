@@ -20,8 +20,8 @@ The goal of this workshop is to get everyone fluent on the concepts and lingo of
 
 ## Important Links:
 
-[Scipy Doc](https://docs.scipy.org/doc/)
-[Numpy Reference](https://docs.scipy.org/doc/numpy/reference/)
+- [Scipy Doc](https://docs.scipy.org/doc/)
+- [Numpy Reference](https://docs.scipy.org/doc/numpy/reference/)
 
 
 
