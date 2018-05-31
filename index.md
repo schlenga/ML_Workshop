@@ -30,7 +30,7 @@ The goal of this workshop is to get everyone fluent on the concepts and lingo of
 - Part 1: [link](Pages/part1.md)
 - Part 2: [link](Pages/part2.md)
 
-##Homework:
+## Homework:
 
 - try to implement the "AND"-gate similar to [here](../Code/Logical Gates With Tensorflow.ipynb)
 - watch the 3Blue1Brown playlist on Machine Learning on [youtube](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
