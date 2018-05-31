@@ -34,6 +34,8 @@ The outline of our machine is going to look like this:
 
 An OR-gate is a very basic part of electronics. It has two inputs, and either can be on or off. The OR-gate itself then will be on if any (or either) of the inputs is on and will be off when both inputs are off.
 
+The weights is what the machine learns, the block represents an activation function.
+
 Instead of using "on" and "off", it's easier to work with numbers. We call then:
 
 $$x_1$$: input one, can be $$0$$ or $$1$$.
@@ -45,3 +47,15 @@ $$y$$: output, can be $$0$$ or $$1$$.
 What we want to model is
 
 $$y = x_1 \lor x_2$$, that is to say $$y=1$$ if $$x_1=1$$ or $$x_2=1$$, and $$y=0$$ if $$x_1=x_2=0$$.
+
+**I'll show it live!**
+
+Now for you: try it with the *AND*-gate.
+
+The AND gate ($$x_1 \land x_2$$) is only on if _both_ inputs are on.
+
+But we didn't really learn!
+
+Well... if we started out with random weights and just compared the results to the desired outputs, we could update the weights in order to improve the predictions!
+
+**Let's try it live!**
