@@ -32,6 +32,6 @@ The goal of this workshop is to get everyone fluent on the concepts and lingo of
 
 ## Homework:
 
-- try to implement the "AND"-gate similar to [here](../Code/Logical Gates With Tensorflow.ipynb)
+- try to implement the "AND"-gate similar to [here](https://github.com/schlenga/ML_Workshop/blob/master/Code/Logical%20Gates%20With%20Tensorflow.ipynb)
 - watch the 3Blue1Brown playlist on Machine Learning on [youtube](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - *advanced*: try to implement the "XOR"-gate as above. Inspiration [here](https://medium.com/@jaschaephraim/elementary-neural-networks-with-tensorflow-c2593ad3d60b)
