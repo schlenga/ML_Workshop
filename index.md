@@ -6,6 +6,8 @@ The goal of this workshop is to get everyone fluent on the concepts and lingo of
 
 ## The rough plan
 
+### Day 1:
+
 - Getting to know what machine learning _does_ and how it _works_
 	- using digital assitants on your phones, google/apple photos...
 	- using [this fun webpage](https://js.tensorflow.org)
@@ -14,8 +16,16 @@ The goal of this workshop is to get everyone fluent on the concepts and lingo of
 - Breaking the machine
 - Quick dive into python
 	- using **jupyter notebooks**
-- Implementing/understanding a simple NN for the [Iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)
+- Building NN for logic gates
+
+### Day 2:
+
+- Fixing up questions from day 1
+- Implementing/understanding a simple Deep Convolutional NN for the [Iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 	- here's the [Jupyter NB](https://github.com/schlenga/ML_Workshop/blob/master/Code/Iris_Classification.ipynb)
+- Using that, implement CNNs:
+	- MNIST
+	- Sentiment Analysis
 	
 
 ## Important Links:
