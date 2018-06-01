@@ -13,6 +13,10 @@ For the first part of the day we will expand on the notion of neural networks fr
 
 To get an intuition about DNNs, check out this page (might look a bit weird on firefox): [link](https://playground.tensorflow.org)
 
+In the following examples your main task will be to set up the network. I will give a sample, and you can check [here](https://www.tensorflow.org/api_docs/python/tf/layers) for all the possible layers and ways they can be connected.
+
+And [here](http://tflearn.org/optimizers) you can take a look at all the different optimizers.
+
 Then, we will look at the [Iris classification problem](https://en.wikipedia.org/wiki/Iris_flower_data_set). [Here's](https://github.com/schlenga/ML_Workshop/blob/master/Code/Iris_Classification.ipynb) the notebook.
 
 ## MNIST
