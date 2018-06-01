@@ -26,3 +26,7 @@ Convolutional neural networks use the idea that images are structured and posses
 Afterwards typically a "vote" takes place and only the most important feature per block is kept.
 
 **Let's try it live!**
+
+Then go to the [Notebook](https://github.com/schlenga/ML_Workshop/blob/master/Code/MNIST.ipynb).
+
+After that: [Part 4!](part4.md)

@@ -68,3 +68,5 @@ In several dimensions, the derivative is called gradient, and it is a vector tha
 ## Quick Python Intro!
 
 ## Our First neural net!
+
+Tomorrow: [Part 3!](part3.md)
