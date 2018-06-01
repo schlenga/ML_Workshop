@@ -51,6 +51,8 @@ The goal of this workshop is to get everyone fluent on the concepts and lingo of
 
 - Part 1: [link](Pages/part1.md)
 - Part 2: [link](Pages/part2.md)
+- Part 3: [link](Pages/part3.md)
+- Part 4: [link](Pages/part4.md)
 
 ## Homework:
 
